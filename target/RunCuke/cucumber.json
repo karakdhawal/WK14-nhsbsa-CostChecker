@@ -1,0 +1,592 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4215878700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "The treatment a person from Wales can get with NHS UK",
+        "description": "",
+        "id": "nhs-cost-checker-test;the-treatment-a-person-from-wales-can-get-with-nhs-uk",
+        "after": [
+          {
+            "result": {
+              "duration": 126800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 138745700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on NHS cost check Home page",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iAmOnNHSCostCheckHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 433694100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click on Start now",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iClickOnStartNow()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 87228300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click on Wales Radio Button",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iClickOnWalesRadioButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1353001400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click on Next Button",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iClickOnNextButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 35900,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I am on GP practice page",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iAmOnGPPracticePage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1068007900,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I click on Yes Radio Button",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iClickOnYesRadioButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1358965200,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I click on Next Button",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iClickOnNextButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 43000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I am on Dental Practice page",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iAmOnDentalPracticePage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 81242600,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I click on Wales Radio Button",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iClickOnWalesRadioButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1368169900,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I click on Next Button",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iClickOnNextButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 26200,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I am on Date of Birth Page",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iAmOnDateOfBirthPage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3250800600,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I enter date of birth",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iEnterDateOfBirth()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1347658800,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "I click on Next Button",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iClickOnNextButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 18000,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "I am on Partner page",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iAmOnPartnerPage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1059185300,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "I click on Yes Radio Button",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iClickOnYesRadioButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1329131700,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "I click on Next Button",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iClickOnNextButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 14600,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "I am on Benefits page",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iAmOnBenefitsPage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1068278300,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "I click on No radio Button",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iClickOnNoRadioButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1323090700,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "I click on Next Button",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iClickOnNextButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 81000,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "I am on Pregnant page",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iAmOnPregnantPage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1056866800,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "I click on No radio Button",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iClickOnNoRadioButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1299320400,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "I click on Next Button",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iClickOnNextButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 85900,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "I am was pensioner page",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iAmWasPensionerPage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1060883500,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "I click on No radio Button",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iClickOnNoRadioButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1316241000,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "I click on Next Button",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iClickOnNextButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 17600,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "I am on Diabetes Page",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iAmOnDiabetesPage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1052352300,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "I click on No radio Button",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iClickOnNoRadioButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1327505900,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "I click on Next Button",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iClickOnNextButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 14500,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "I am on Glaucoma page",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iAmOnGlaucomaPage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1065494600,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "I click on No radio Button",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iClickOnNoRadioButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1329919000,
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "I click on Next Button",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iClickOnNextButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 13000,
+              "status": "passed"
+            },
+            "line": 36,
+            "name": "I am on CareHome Page",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iAmOnCareHomePage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1070005300,
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "I click on No radio Button",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iClickOnNoRadioButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1313265700,
+              "status": "passed"
+            },
+            "line": 38,
+            "name": "I click on Next Button",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iClickOnNextButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 25400,
+              "status": "passed"
+            },
+            "line": 39,
+            "name": "I am on Savings page",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iAmOnSavingsPage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1081225300,
+              "status": "passed"
+            },
+            "line": 40,
+            "name": "I click on Yes Radio Button",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iClickOnYesRadioButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1346574200,
+              "status": "passed"
+            },
+            "line": 41,
+            "name": "I click on Next Button",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iClickOnNextButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1046641600,
+              "status": "passed"
+            },
+            "line": 42,
+            "name": "I can see the result",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iCanSeeTheResult()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1500747800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 44,
+        "name": "The treatment a person from Northern Ireland can get with NHS UK",
+        "description": "",
+        "id": "nhs-cost-checker-test;the-treatment-a-person-from-northern-ireland-can-get-with-nhs-uk",
+        "after": [
+          {
+            "result": {
+              "duration": 24500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 25100,
+              "status": "passed"
+            },
+            "line": 45,
+            "name": "I am on NHS cost check Home page",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iAmOnNHSCostCheckHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 392659500,
+              "status": "passed"
+            },
+            "line": 46,
+            "name": "I click on Start now",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iClickOnStartNow()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 74471100,
+              "status": "passed"
+            },
+            "line": 47,
+            "name": "I click on Northern Ireland Radio Button",
+            "match": {
+              "location": "NIrelandNHSCostCheckerStepdefs.iClickOnNorthernIrelandRadioButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1308417500,
+              "status": "passed"
+            },
+            "line": 48,
+            "name": "I click on Next Button",
+            "match": {
+              "location": "WalesNHSCostCheckerStepdefs.iClickOnNextButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1031337800,
+              "status": "passed"
+            },
+            "line": 49,
+            "name": "I can see the Norther Ireland Result",
+            "match": {
+              "location": "NIrelandNHSCostCheckerStepdefs.iCanSeeTheNortherIrelandResult()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "NHS Cost checker Test",
+    "description": "As user I want to check NHS Cost",
+    "id": "nhs-cost-checker-test",
+    "keyword": "Feature",
+    "uri": "NHSCost.feature"
+  }
+]
